@@ -8,6 +8,9 @@ localhost:3000/test.json
 {
     "test": "var"
 }
+
+http://localhost:3000/test.png
+картинка 
 // *****************************************************
 Остановка ctrl + c (2 раза)
 Запуск node index
